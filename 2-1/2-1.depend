@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1528772915 source:e:\code\cpp_concurrency_in_action\2-1\main.cpp
+	<iostream>
+	<thread>
+
